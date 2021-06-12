@@ -3,7 +3,7 @@ Title: Breast Cancer Diagnosis
    * Classification: Maglinant(Cancer), Benign(Non-Cancer)  
    * Model-Used: Kernel SVM
    * Initial Accuracy: 0.5789
-   * Improvements: Feature Scaling
+   * Improvements: Feature Scaling, Grid Search
    * Final Accuracy: 0.96
 
 Title: Breast Cancer Diagnosis 

@@ -15,3 +15,8 @@ Title: Fashion Class Classification
    * Error Encountered: If you have Tensorflow installed and Imported Keras, you will have this error 'module 'tensorflow.compat.v2' has no attribute '__internal__''
    * Error Workaround: Use the Keras from Tensorflow library (Tesorflow-Version: 2.2.0)
    * Warnings: Sequential.predict_classes is deprecated. 
+
+Title: Behavioural Analysis 
+   * Classification: Yes, No
+   * Model-Used: Logistic Regression
+   * Accuracy: 0.768
